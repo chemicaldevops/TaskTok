@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		E690FDB42ED8E372003BB095 /* ADHDKiller.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ADHDKiller.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E69686302EDCC06C0027FC65 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -59,6 +60,7 @@
 			children = (
 				E690FDB62ED8E372003BB095 /* ADHDKiller */,
 				E690FDB52ED8E372003BB095 /* Products */,
+				E69686302EDCC06C0027FC65 /* readme.md */,
 			);
 			sourceTree = "<group>";
 		};
