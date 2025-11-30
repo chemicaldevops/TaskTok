@@ -36,3 +36,5 @@ Text format is supported, as well as text for copying — just tap on the text a
 In a future version, it may be possible to add illustrations and select the language.
 
 Since the app is as simple and lightweight as possible with clearly defined functionality, the settings button currently takes you to an empty
+
+Anyone can easily deploy it themselves
