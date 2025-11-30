@@ -9,8 +9,8 @@
 
 ### Copy the repository to your Mac using the following commands:
 ```bash
-cd %your_repo%
-git clone https://github.com/ваше_имя/ADHDKiller.git
+cd %your_local_repo%
+git clone https://github.com/chemicaldevops/TaskTok.git
 ```
 
 Open the project in Xcode.
