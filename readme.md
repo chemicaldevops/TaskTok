@@ -14,7 +14,7 @@ git clone https://github.com/ваше_имя/ADHDKiller.git
 ```
 
 Open the project in Xcode.
-Then tap on the project and dive into the General settings menu in the App Icons and Launch Screen section. 
+Then tap on the project and dive into the General settings menu in the App Icons and Launch Screen section.
 In the App Icon option, enter “AppIcon”. In the Supported Destination option, leave iOS.
 
 Connect your device to your Mac via a USB cable, then select it as the target in the top menu.
