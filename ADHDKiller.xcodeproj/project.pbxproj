@@ -6,13 +6,9 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		E696865F2EDCC57A0027FC65 /* README 2.md in Resources */ = {isa = PBXBuildFile; fileRef = E696865E2EDCC5760027FC65 /* README 2.md */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXFileReference section */
 		E690FDB42ED8E372003BB095 /* ADHDKiller.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ADHDKiller.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		E696865E2EDCC5760027FC65 /* README 2.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "README 2.md"; sourceTree = "<group>"; };
+		E69686602EDCC5E80027FC65 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -62,9 +58,9 @@
 		E690FDAB2ED8E372003BB095 = {
 			isa = PBXGroup;
 			children = (
+				E69686602EDCC5E80027FC65 /* README.md */,
 				E690FDB62ED8E372003BB095 /* ADHDKiller */,
 				E690FDB52ED8E372003BB095 /* Products */,
-				E696865E2EDCC5760027FC65 /* README 2.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -137,7 +133,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E696865F2EDCC57A0027FC65 /* README 2.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
